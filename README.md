@@ -1,6 +1,7 @@
 # weather
 
-A new Flutter project.
+I am the developer of an app that allows users to search for weather conditions in a specific city.
+The user enters the name of the city in which he wants to know the weather, then the application fetches data related to the weather condition in that city.
 
 ## Getting Started
 
